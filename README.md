@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **FLUTTER , REACT JS , NODE JS**
 
-- 📫 How to reach me **gautamharshit932gmail.com**
+- 📫 How to reach me **gautamharshit93@gmail.com**
 
 - ⚡ Fun fact **//be nice to the CPU
 -                  Thread_sleep(1)//;**
