@@ -1,5 +1,5 @@
-! [logo]  (![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/88badb63-c752-4d6f-bbca-5a626f35fc3f)
-)
+ ![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/88badb63-c752-4d6f-bbca-5a626f35fc3f)
+
 <h1 align="center">Hi 👋, I'm Harshit Gautam</h1>
 <h3 align="center">Web development | Flutter | C++ |5 star Python coder on Hackerank |Html| Content writing|FYD|Btech computer science and technology| Edutech |UI design|Filmora go|Canva</h3>
 
@@ -22,12 +22,12 @@
 - 📫 How to reach me **gautamharshit932gmail.com**
 
 - ⚡ Fun fact **//be nice to the CPU
--                  Thread_sleep(1);**
+-                  Thread_sleep(1)//;**
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400"src="![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/6d06d319-dacb-4bc4-bd46-74978c98d2bc)
-">
+![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/6d06d319-dacb-4bc4-bd46-74978c98d2bc)
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-gautam-25464122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-gautam-25464122b/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9iostsjrj2iny6u3u7qj7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9iostsjrj2iny6u3u7qj7w" height="30" width="40" /></a>
