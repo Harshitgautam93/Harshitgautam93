@@ -1,17 +1,17 @@
  ![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/88badb63-c752-4d6f-bbca-5a626f35fc3f)
 
 <h1 align="center">Hi 👋, I'm Harshit Gautam</h1>
-<h3 align="center">Web development | Flutter | C++ |5 star Python coder on Hackerank |Html| Content writing|FYD|Btech computer science and technology| Edutech |UI design|Filmora go|Canva</h3>
+<h3 align="center">Web developer | React Native |ExpoGo | C++ |5 star Python coder on Hackerank |Javascript |2x🏆 hackethon |Bootstrap|Content writing|FYD|React Js|Three JS|Btech computer science and technology| Edutech |UI design| Canva</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgautam93&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgautam93" /> </p>
 
-- 🔭 I’m currently working on [BYTE LEARN](https://github.com/Harshitgautam93/Byte_Learn)
+- 🔭 I’m currently working on [My Portfolio](https://threejs-main-l3bi.vercel.app/)
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [FIND YOUR DEAL](https://github.com/TheNoob51/find_your_deal_shopping_app)
 
-- 🤝 I’m looking for help with [BANKING SYSTEMS](https://github.com/Harshitgautam93/Banking-systems)
+- 🤝 I’m looking for help with [Docker and Kubernetes]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshitgautam93](https://github.com/Harshitgautam93)
 
