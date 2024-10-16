@@ -1,4 +1,4 @@
- ![image](https://github.com/Harshitgautam93/Harshitgautam93/assets/134795569/88badb63-c752-4d6f-bbca-5a626f35fc3f)
+ ![image](https://ibb.co/98fwjNy)
 
 <h1 align="center">Hi 👋, I'm Harshit Gautam</h1>
 <h3 align="center">Web developer | React Native |ExpoGo | C++ |5 star Python coder on Hackerank |Javascript |2x🏆 hackethon |Bootstrap|Content writing|FYD|React Js|Three JS|Btech computer science and technology| Edutech |UI design| Canva</h3>
