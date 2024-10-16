@@ -1,4 +1,4 @@
- ![image](https://ibb.co/98fwjNy)
+ ![image](https://i.postimg.cc/fWXt5wJC/Creative-Studio-Name-Linked-In-Article-Cover-Image.png)
 
 <h1 align="center">Hi 👋, I'm Harshit Gautam</h1>
 <h3 align="center">Web developer | React Native |ExpoGo | C++ |5 star Python coder on Hackerank |Javascript |2x🏆 hackethon |Bootstrap|Content writing|FYD|React Js|Three JS|Btech computer science and technology| Edutech |UI design| Canva</h3>
